@@ -4,7 +4,7 @@
 #
 Name     : mvn-javolution
 Version  : 5.5.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/javolution/javolution/5.5.1/javolution-5.5.1.jar
 Source0  : https://repo1.maven.org/maven2/javolution/javolution/5.5.1/javolution-5.5.1.jar
 Source1  : https://repo1.maven.org/maven2/javolution/javolution/5.5.1/javolution-5.5.1.pom
